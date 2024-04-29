@@ -8,12 +8,12 @@
 
 * Here are the insights found from the analysis:
 
-* GOA has MORE HOTELS than any other places.
-* HOTEL prices are HIGH in GOA and low in KOLKATA.
-* HOTEL ratings are HIGH in MANALI and low in MUMBAI.
-* HOTEL reviews are HIGH in MUMBAI and low in MANALI.
-* All city hotels are PROVIDING cancellation policy.
-* GOA and MANALI hotels are providing PRE-PAYMENT method remaining are not providing.
-* All city hotels are  providing BREAKFAST.
-* MANALI is providing budget-friendly beds and rooms.
+      * GOA has MORE HOTELS than any other places.
+      * HOTEL prices are HIGH in GOA and low in KOLKATA.
+      * HOTEL ratings are HIGH in MANALI and low in MUMBAI.
+      * HOTEL reviews are HIGH in MUMBAI and low in MANALI.
+      * All city hotels are PROVIDING cancellation policy.
+      * GOA and MANALI hotels are providing PRE-PAYMENT method remaining are not providing.
+      * All city hotels are  providing BREAKFAST.
+      * MANALI is providing budget-friendly beds and rooms.
 
