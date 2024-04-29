@@ -6,7 +6,7 @@
 * City and Price are the target variables in the analysis.
 
 
-* Here are the insights found from the analysis:
+* Here are the insights found from the analysis: 
 
       * GOA has MORE HOTELS than any other places.
       * HOTEL prices are HIGH in GOA and low in KOLKATA.
